@@ -1,0 +1,7 @@
+/* Placeholder index.css to avoid 404. 
+   If you want Tailwind-built CSS in production, install Tailwind as a PostCSS plugin
+   and output a compiled CSS file here instead of using the CDN in production. */
+
+/* Example custom style (optional) */
+:root { --bg: #000; }
+body { background-color: var(--bg); }
