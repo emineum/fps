@@ -1,0 +1,5 @@
+{
+  "name": "FPS Tactical Skill Controller",
+  "description": "A high-fidelity FPS character controller demonstration with tactical skill systems, featuring Valorant-style movement and HUD.",
+  "requestFramePermissions": []
+}
